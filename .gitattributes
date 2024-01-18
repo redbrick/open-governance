@@ -1,0 +1,13 @@
+# FILEPATH: /C:/Users/James/Documents/redbrick/redbrick/.gitattributes
+
+# Set default behavior for markdown files
+*.md linguist-language=Markdown
+
+# Treat all files as text except for binary files
+* text=auto
+
+# Denote files that are truly binary and should not be modified
+*.png binary
+*.jpg binary
+*.gif binary
+*.pdf binary
