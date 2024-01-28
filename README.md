@@ -1,8 +1,10 @@
 ---
-title: brickbot security issues
+title: Redbrick Open Governance
 created: 2024-01-18T19:49:29
-modified: 2024-01-18T20:12:16
+modified: 2024-01-28T00:13:51
 ---
+
+# Redbrick Open Governance
 
 This repo aims to provide all the information needed for anyone to view and review the decisions, actions, notes and documentation made by the Governing Executive Committee of Redbrick, DCU's Computing and Networking Society.
 
