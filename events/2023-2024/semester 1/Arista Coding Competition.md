@@ -1,7 +1,7 @@
 ---
-title: Other
+title: Arista Coding Competition
 created: 2024-01-18T19:49:29
-modified: 2024-01-18T20:12:16
+modified: 2024-01-30T04:06:33
 tags:
   - arista
   - competition
@@ -23,4 +23,4 @@ Short summary of how the event was run, format event took, etc
 
 Emer O'Kelly from Arista was in contact for this event.
 
-# Other
+## Other
