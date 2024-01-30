@@ -1,7 +1,7 @@
 ---
-title: "Dublin City University: Redbrick Constitution"
+title: Constitution
 created: 2024-01-18T20:26:47
-modified: 2024-01-30T01:18:40
+modified: 2024-01-30T04:33:36
 ---
 
 # Dublin City University: Redbrick Constitution
