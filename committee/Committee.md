@@ -1,8 +1,12 @@
 ---
-title: The Committee
+title: Committee
 created: 2024-01-18T19:49:29
-modified: 2024-01-18T20:12:16
+modified: 2024-01-30T04:05:38
 ---
+
+## Constitution Definition
+
+[4 Governing Executive Committee](../documents/Constitution.md#4%20Governing%20Executive%20Committee)
 
 The Society shall have a Governing Executive Committee (The Committee).
 
@@ -14,9 +18,9 @@ A quorum shall be 2/3 of the Committee members.
 
 The Committee shall consist of the following core positions:
 
-- [Chairperson](../committee/Chairperson.md)
-- [Secretary](../committee/Secretary.md)
-- [Treasurer](../committee/Treasurer.md)
+- [Chairperson](Chairperson.md)
+- [Secretary](Secretary.md)
+- [Treasurer](treasurer/Treasurer.md)
 - [Public Relations Officer (PRO)](Public%20Relations%20Officer.md)
 
 The Committee may also be assisted by the following non-core positions:
@@ -24,7 +28,7 @@ The Committee may also be assisted by the following non-core positions:
 - Vice-Chairperson
 - Graphics Design Officer (GDO)
 - First Year Rep
-- [Webmaster](Webmaster.md)
+- [Webmaster](webmaster/Webmaster.md)
 - 3x Systems Administrator
 - 2x Helpdesk
 - 2x [Events Officer](Events%20Officer.md)

@@ -28,7 +28,7 @@ If you prefer, you can view these files as plain markdown in any text editor and
 - Events
 - [Useful Links](resources/Useful%20Links.md)
 - [Webgroup](webgroup/Webgroup.md)
-- [The Committee](committee/The%20Committee.md)
+- [Committee](committee/Committee.md)
 
 ## How This System Works
 
@@ -77,7 +77,7 @@ bring in other netsocs to describe our new governance policy on things
 - enthuse about open governance open tech etc stack
 - if no RSVP bring in membership, remove fee and get sponsorship
 
-# [Webmaster](committee/Webmaster.md)
+# [Webmaster](committee/webmaster/Webmaster.md)
 
 [Webgroup](webgroup/Webgroup.md) is a subgroup of Redbrick
 

@@ -5,5 +5,5 @@
   "newLinkFormat": "relative",
   "newFileLocation": "current",
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "./res"
+  "attachmentFolderPath": "res"
 }
