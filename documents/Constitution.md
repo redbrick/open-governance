@@ -1,16 +1,14 @@
 ---
 title: "Dublin City University: Redbrick Constitution"
 created: 2024-01-18T20:26:47
-modified: 2024-01-18T20:26:58
+modified: 2024-01-30T01:18:40
 ---
 
 # Dublin City University: Redbrick Constitution
 
 ## 1 Name of the Society
 
-The official name of the Society will be Redbrick. This shall
-
-appear on correspondence with official bodies.
+The official name of the Society will be Redbrick. This shall appear on correspondence with official bodies.
 
 ## 2 Aims & Objectives
 
