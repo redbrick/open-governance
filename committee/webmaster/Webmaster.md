@@ -10,7 +10,7 @@ modified: 2024-01-30T15:53:08
 
 [6 Duties of the Governing Executive Committee](../../documents/Constitution.md#6%20Duties%20of%20the%20Governing%20Executive%20Committee)
 
-The Webmaster shall be responsible for the design, implementation, and maintenance of the website. They shall work in conjunction with the other members of [Committee](Committee.md) in order to publicise society details via the web.
+The Webmaster shall be responsible for the design, implementation, and maintenance of the website. They shall work in conjunction with the other members of [Committee](../Committee.md) in order to publicise society details via the web.
 
 The Webmaster is tasked with advising and assisting other clubs and societies in their endeavours to publicise themselves on the web.
 
