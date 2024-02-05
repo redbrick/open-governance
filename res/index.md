@@ -1,3 +1,4 @@
 ---
 hidden: true
+index: true
 ---
