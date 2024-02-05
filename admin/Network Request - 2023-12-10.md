@@ -43,7 +43,7 @@ The admins have a VPN (using OpenVPN) for ssh, access to internal web UIs and sw
 
 The image below shows our hopeful plan for our new servers. Over the Christmas we plan to start work towards this, and some time in the new year we can discuss it further.
 
-![](../.res/ingress_topology_aperture.bmp)
+![](../res/ingress_topology_aperture.bmp)
 
 ## DNS
 
