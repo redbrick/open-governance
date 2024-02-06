@@ -2,6 +2,7 @@
 title: Style Guide
 created: 2024-01-30T04:14:59
 modified: 2024-01-30T04:40:56
+hidden: true
 ---
 
 # Style Guide
