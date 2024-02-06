@@ -2,6 +2,7 @@
 title: Committee
 created: 2024-01-18T19:49:29
 modified: 2024-01-30T17:43:22
+index: true
 ---
 
 ## Constitution Definition
