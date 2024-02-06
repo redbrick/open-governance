@@ -2,6 +2,7 @@
 title: Treasurer
 created: 2024-01-18T19:49:29
 modified: 2024-01-30T15:53:19
+index: true
 ---
 
 # Treasurer

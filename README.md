@@ -1,7 +1,8 @@
 ---
-title: README
+title: Open Governance
 created: 2024-01-18T19:49:29
 modified: 2024-01-30T17:27:47
+index: true
 ---
 
 # Redbrick Open Governance
