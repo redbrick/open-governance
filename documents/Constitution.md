@@ -137,7 +137,7 @@ The aims and objectives of the Society are as follows:
 
 **6.24** The Committee shall endeavour to meet weekly during term time, at which a majority of the Committee must attend.
 
-**6.26** Any Committee Member that misses 3 or more Committee meetings without the permission of the Chairperson will be deemed to have reasonable grounds for dismissal, subject to Section 7.
+**6.25** Any Committee Member that misses 3 or more Committee meetings without the permission of the Chairperson will be deemed to have reasonable grounds for dismissal, subject to Section 7.
 
 ## 7 Dismissal and Resignation of Committee Members
 
