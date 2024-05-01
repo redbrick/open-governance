@@ -1,7 +1,12 @@
 ---
-title: Constitution
+id: Constitution
+aliases:
+  - "Dublin City University: Redbrick Constitution"
+  - constitution
+tags: []
 created: 2024-01-18T20:26:47
 modified: 2024-01-30T04:33:36
+title: Constitution
 ---
 
 # Dublin City University: Redbrick Constitution
@@ -58,7 +63,7 @@ The aims and objectives of the Society are as follows:
 - Treasurer
 - Public Relations Officer (PRO)
 
-**4.6** The Committee may also be assisted by the following non-core poistions:
+**4.6** The Committee may also be assisted by the following non-core posistions:
 
 - Vice-Chairperson
 - Graphics Design Officer (GDO)
@@ -81,7 +86,7 @@ The aims and objectives of the Society are as follows:
 
 **5.3** To be deemed fit for election to the position of Systems Administrator, Webmaster or Helpdesk, the candidate must pass an aptitude test, set by the following people for their respective roles:
 
-- The outgoing Webmaster, Helpdesk, or Systems Adminstrators
+- The outgoing Webmaster, Helpdesk, or Systems Administrators
 - A third party nominated by the outgoing Webmaster, Helpdesk, or a majority of Systems Administrators.
 - A committee nominated third party in the case that none of the above criteria can be accommodated.
 
@@ -97,7 +102,7 @@ The aims and objectives of the Society are as follows:
 
 **6.4** The Vice-Chairperson shall assume the duties of The Chairperson (unless otherwise directed by a general meeting of the Society) in the event that The Chairperson is absent or is unable to perform their duties.
 
-**6.5** The Secretary shall deal with all correspondance and records of the Society.
+**6.5** The Secretary shall deal with all correspondence and records of the Society.
 
 **6.6** The Secretary keeps minutes of all Committee meetings, of all general meetings, of the Annual General Meeting, or any other meetings related to the business of the Society when requested by the Committee.
 
@@ -121,7 +126,7 @@ The aims and objectives of the Society are as follows:
 
 **6.16** The Systems Administrators shall be held ultimately responsible for the administration, security, and maintenance of the Society's computer systems. They shall be responsible for the notification of the Committee in regard to any breaches of the rules and regulations of the system. They are hereby authorised to take any administrative action necessary to discharge their duties, so long as such actions are constitutional. Such actions are open to review by the Committee.
 
-**6.17** The Webmaster shall be responsible for the design, implementation, and maintenance of the website. They shall work in conjuction with the other members of The Committee in order to publicise society details via the web.
+**6.17** The Webmaster shall be responsible for the design, implementation, and maintenance of the website. They shall work in conjunction with the other members of The Committee in order to publicise society details via the web.
 
 **6.18** The Webmaster is also tasked with advising and assisting other clubs and societies in their endeavours to publicise themselves on the web.
 
@@ -129,11 +134,11 @@ The aims and objectives of the Society are as follows:
 
 **6.20** The Events Officer shall have the responsibility of organising all receptions and events held by the Society.
 
-**6.21** First Year Liason Officer shall work with the Committee to make the Society more accessible for first year students. As part of this they will work closely with the Events Officers, Public Relations Officer and Helpdesk where applicable.
+**6.21** First Year Liaison Officer shall work with the Committee to make the Society more accessible for first year students. As part of this they will work closely with the Events Officers, Public Relations Officer and Helpdesk where applicable.
 
 **6.22** The Ordinary Member shall be an assisting figure within the Society. They shall be be involved in assisting other Committee Members in their duties and the organisation and running of events.
 
-**6.23** The Graphics Design Officer (GDO) shall be responsible for the design and creation of art assets for events and promotional materials. They shall also liase with the Events Officer(s), PRO and Secretary in the commissioning and distribution of said materials.
+**6.23** The Graphics Design Officer (GDO) shall be responsible for the design and creation of art assets for events and promotional materials. They shall also liaise with the Events Officer(s), PRO and Secretary in the commissioning and distribution of said materials.
 
 **6.24** The Committee shall endeavour to meet weekly during term time, at which a majority of the Committee must attend.
 
@@ -158,7 +163,7 @@ A Committee Member wishing to resign must submit a letter in writing declaring t
 
 **8.3** Elections for the offices of The Governing Executive Committee shall take place at this meeting.
 
-**8.4** A quorum of the AGM shall be 2 outgoing Governing Executive Committee Members, plus 10% of the ordinary membership. 
+**8.4** A quorum of the AGM shall be 2 outgoing Governing Executive Committee Members, plus 10% of the ordinary membership.
 
 - For example, with a membership of 300, 32 people are needed for quorum, of which 2 must be outgoing Committee Members.
 
