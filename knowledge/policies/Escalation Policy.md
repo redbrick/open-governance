@@ -4,7 +4,7 @@ created: 2024-01-18T19:49:29
 modified: 2024-01-18T20:12:16
 ---
 
-When an issue arises in spaces governed by the [System Administrators](System%20Administrators) or [Events Officers](Events%20Officers), an escalation policy is provided to ensure a systematic way of dealing with it.
+When an issue arises in spaces governed by the [System Administrators](System%20Administrators), [Events Officers](Events%20Officers) or [Webmaster](Webmaster.md) an escalation policy is provided to ensure a systematic way of dealing with it.
 
 ## Why
 
