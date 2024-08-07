@@ -23,10 +23,10 @@ This documentation is best viewed using a tool called [Obsidian](https://obsidia
 
 ### Obsidian Configuration
 For use with obsidian we reccommend the following plugins.
-▎  - Advanced Tables by Tony Grosinger Github Obsidian
-▎  - Git by Vinzent, (Denis Olehov) Github Obsidian
-▎  - Minimal Theme Settings by @kepano Github Obsidian
-▎  - Linter by Virctor Tao Github Obsidian
+  - Advanced Tables by Tony Grosinger Github Obsidian
+  - Git by Vinzent, (Denis Olehov) Github Obsidian
+  - Minimal Theme Settings by @kepano Github Obsidian
+  - Linter by Virctor Tao Github Obsidian
 
 To Enable these plugins go to Settings > Community Plugins > Turn On Community Plugins > Browse. Search, Install and Enable each of the plugins above.
 
