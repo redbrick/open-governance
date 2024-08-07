@@ -21,6 +21,15 @@ The idea is to enable a model of [Open Governance](knowledge/terminology/Open%20
 
 This documentation is best viewed using a tool called [Obsidian](https://obsidian.md). Clone this repository locally and open the directory with Obsidian. This will allow links to work in a wiki-like manner.
 
+### Obsidian Configuration
+For use with obsidian we reccommend the following plugins.
+  - Advanced Tables by Tony Grosinger Github Obsidian
+  - Git by Vinzent, (Denis Olehov) Github Obsidian
+  - Minimal Theme Settings by @kepano Github Obsidian
+  - Linter by Virctor Tao Github Obsidian
+
+To Enable these plugins go to Settings > Community Plugins > Turn On Community Plugins > Browse. Search, Install and Enable each of the plugins above.
+
 If you need to quickly reference this documentation, then a version of the documentation will be rendered at https://redbrick.dcu.ie.
 
 If you prefer, you can view these files as plain markdown in any text editor and follow links manually.
