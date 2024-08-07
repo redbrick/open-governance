@@ -1,11 +1,7 @@
 ---
-id: EDR and Bug Bounty Program
-aliases:
-  - Initial Offer
-tags: []
-created: 2024-07-29T21:36:10
-modified: 2024-08-07T22:08:06
 title: EDR and Bug Bounty Program
+created: 2024-07-29T21:36:10
+modified: 2024-08-07T23:32:53
 ---
 
 Below is the timeline of decisions made by the Redbrick Admins in relation to the implementation of ISS managed Endpoint Detection and Response (EDR) and the Bug Bounty Programmes.
