@@ -5,7 +5,7 @@ aliases:
   - constitution
 tags: []
 created: 2024-01-18T20:26:47
-modified: 2024-01-30T04:33:36
+modified: 2024-08-14T21:48:54
 title: Constitution
 ---
 
@@ -25,7 +25,7 @@ The aims and objectives of the Society are as follows:
 - **2.4** To provide a forum for members to interact and socialise through activities and discussions which provide experience in computing.
 - **2.5** To assist Society members to represent the Society at a higher level.
 - **2.6** To help educate people in the usage of Internet utilities and resources.
-- **2.7** To assist other clubs and societies in Dublin City University with computing related questions and tasks.
+- **2.7** To assist other clubs and societies in Dublin City University with computing-related questions and tasks.
 
 ## 3 Members
 
@@ -33,7 +33,7 @@ The aims and objectives of the Society are as follows:
 
 **3.2** Membership shall be obtained by paying the appropriate fee and registering through the Online Management System.
 
-**3.3** the Society recognises the importance, experience and knowledge that graduates and former members bring to the Society, therefore we will endeavour to retain their connection to the Society.
+**3.3** The Society recognises the importance, experience and knowledge that graduates and former members bring to the Society, therefore we will endeavour to retain their connection to the Society.
 
 **3.4** To this end, the Governing Executive Committee of the Society shall be empowered to create a class of "Associate Member" of the Society.
 
@@ -63,11 +63,11 @@ The aims and objectives of the Society are as follows:
 - Treasurer
 - Public Relations Officer (PRO)
 
-**4.6** The Committee may also be assisted by the following non-core posistions:
+**4.6** The Committee may also be assisted by the following non-core positions:
 
 - Vice-Chairperson
 - Graphics Design Officer (GDO)
-- First Year Rep
+- First Year Representative
 - Webmaster
 - 3x Systems Administrator
 - 2x Helpdesk
@@ -88,7 +88,7 @@ The aims and objectives of the Society are as follows:
 
 - The outgoing Webmaster, Helpdesk, or Systems Administrators
 - A third party nominated by the outgoing Webmaster, Helpdesk, or a majority of Systems Administrators.
-- A committee nominated third party in the case that none of the above criteria can be accommodated.
+- A committee-nominated third party in the case that none of the above criteria can be accommodated.
 
 **5.4** The 1st Year Liaison Officer shall be elected at an EGM in semester one, and must be in their first year as an undergraduate student at DCU.
 
@@ -108,7 +108,7 @@ The aims and objectives of the Society are as follows:
 
 **6.7** The Secretary shall give notice to all members of the Society's meetings, events, and functions through email.
 
-**6.8** The Secretary shall assist the Public Relations Officer to organise fund raising events and sponsorship where necessary.
+**6.8** The Secretary shall assist the Public Relations Officer to organise fundraising events and sponsorship where necessary.
 
 **6.9** The Treasurer shall administer the funds of the Society and to maintain accounts and budgets.
 
@@ -134,7 +134,7 @@ The aims and objectives of the Society are as follows:
 
 **6.20** The Events Officer shall have the responsibility of organising all receptions and events held by the Society.
 
-**6.21** First Year Liaison Officer shall work with the Committee to make the Society more accessible for first year students. As part of this they will work closely with the Events Officers, Public Relations Officer and Helpdesk where applicable.
+**6.21** The First Year Representative shall work with the Committee to make the Society more accessible for first-year students. As part of this, they will work closely with the Events Officers, Public Relations Officer and Helpdesk where applicable.
 
 **6.22** The Ordinary Member shall be an assisting figure within the Society. They shall be be involved in assisting other Committee Members in their duties and the organisation and running of events.
 
@@ -173,7 +173,7 @@ A Committee Member wishing to resign must submit a letter in writing declaring t
 
 - 10% of the ordinary membership of the Society requests such a meeting in writing.
 - A quorum of the Governing Executive Committee requests such a meeting in writing.
-- A vacancy on the current Committee occurs and there is need to elect a replacement.
+- A vacancy on the current Committee occurs and there is a need to elect a replacement.
 
 **8.7** Elections for the offices of the Governing Executive Committee shall take place at the AGM or EGM (where relevant).
 
@@ -181,7 +181,7 @@ A Committee Member wishing to resign must submit a letter in writing declaring t
 
 **8.9** At a meeting, a member may propose a resolution relating to the business of the Society. The resolution shall be voted on by a show of hands and a declaration by the Chairperson that the resolution is carried (unless a secret ballot is demanded by any 5 members) shall be conclusive evidence that the resolution has passed or failed.
 
-**8.10** In the event that the Chairperson's resolution (8.9) is challenged, a recount if the votes will be administered in which a number of appropriate people will be appointed as "tellers" to count the vote. The result will be announced by the Chairperson or the Vice-Chairperson (where requested by the general meeting). No resolution may contravene DCU or Society Life Committee policies.
+**8.10** In the event that the Chairperson's resolution (8.9) is challenged, a recount of the votes will be administered in which a number of appropriate people will be appointed as "tellers" to count the vote. The result will be announced by the Chairperson or the Vice-Chairperson (where requested by the general meeting). No resolution may contravene DCU or Society Life Committee policies.
 
 ## 9 General
 
@@ -189,9 +189,9 @@ A Committee Member wishing to resign must submit a letter in writing declaring t
 
 **9.2** The membership fee for the Society shall be in compliance with the conditions set down by the Society Life Committee.
 
-**9.3** Each Member of the Society shall be entitled to receive a copy of this Constitution, on demand, free of charge.
+**9.3** Each Member of the Society shall be entitled to receive a copy of this Constitution, on-demand, free of charge.
 
-**9.4** In the event of a clash with the Society Life Committee Constitution, the Society Life Committee Constitution shall take precedence above this constitution  and is subject to Society Life Committee at all times.
+**9.4** In the event of a clash with the Society Life Committee Constitution, the Society Life Committee Constitution shall take precedence above this constitution and is subject to the Society Life Committee at all times.
 
 **9.5** In joining the Society, members agree to be bound by the rules and regulations of the Society as laid down in this Constitution and by the Governing Executive Committee. Members violating these rules and regulations shall be answerable to the Committee and may have any one or many of the following:
 
@@ -209,7 +209,7 @@ A Committee Member wishing to resign must submit a letter in writing declaring t
 
 **10.3** Any equipment donated to the Society shall therein be the property of the Society.
 
-**10.4** Any equipment which is damaged or destroyed whilst on loan to the Society will have its replacement cost paid to it's loaner.
+**10.4** Any equipment which is damaged or destroyed whilst on loan to the Society will have its replacement cost paid to its loaner.
 
 **10.5** Administration of loaned or donated equipment shall be the exclusive responsibility of the Committee.
 
