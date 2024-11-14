@@ -22,7 +22,7 @@ id: Common-Room-Rules
 - A verbal warning
     - If the behaviour continues the person will be subject to a Common Room ban.
 - In serious cases, a ban will be issued without warning.
-- Redbrick and EngSoc committees will be informed bans and warnings as is necessary.
+- Redbrick and EngSoc committees will be informed of bans and warnings as is necessary.
 
 ## 3. Rules
 
