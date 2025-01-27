@@ -53,4 +53,4 @@ id: Common-Room-Rules
 
 4.2. Decisions regarding any other actions are up to the discretion of the common room committee.
 
-4.3. The common room committee shall keep a record of minutes of all meetings, which will be available to all members on Redbrick's open governance repository.
+4.3. The common room committee shall keep a record of minutes of all meetings.
