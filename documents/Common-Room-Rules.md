@@ -25,7 +25,7 @@ id: Common-Room-Rules
 -  In the case where a ban is warranted, the situation will be brought to the attention of the Office of Student Life, who will decide on the appropriate course of action.
 
 - Redbrick and EngSoc committees must be informed of the details of every ban and warning issued, and a shared record will be kept.
-- A member has the right request anonymised minutes of the meeting(s) where the warning/ban was discussed.
+- A member has the right to request anonymised minutes of the meeting(s) where the warning/ban was discussed.
 
 
 ## 3. Rules
