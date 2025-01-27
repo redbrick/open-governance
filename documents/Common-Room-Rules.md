@@ -13,7 +13,7 @@ id: Common-Room-Rules
 
 ## 1. Purpose of Policy
 
-1.1 This policy is designed to create a welcoming and safe environment. The common room is a communal space where members should act in acceptable, safe, respectful manner. It is also designed to maintain the cleanliness of the room. This room is a privilege bestowed to the members of the societies which may be revoked by the Common Room Committee, regardless of which society you are a part of.
+1.1 This policy is designed to create a welcoming and safe environment. The common room is a communal space where members should act in an acceptable, safe, and respectful manner. It is also designed to maintain the cleanliness of the room. This room is a privilege bestowed to the members of the societies which may be revoked by the Common Room Committee, regardless of which society you are a part of.
 
 ## 2. Violations of Policy
 
@@ -48,7 +48,7 @@ id: Common-Room-Rules
 
 4.1. The common room committee is composed of 3 committee members from both societies. If you have any questions, comments or concerns, you can speak to any of them without judgement.
 
-- The current common room committee members for Redbrick are: Shane, Dominic, and Daniel.
+- The current common room committee members for Redbrick are: Shane, Kamil, and Daniel.
 - The current common room committee members for EngSoc are Gavin, Ana, and Sam.
 
 4.2. Decisions regarding any other actions are up to the discretion of the common room committee.
