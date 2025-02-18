@@ -28,9 +28,11 @@ id: Common-Room-Rules
 
 2.2 Documentation of violations
 
-The Common Room Committee will keep a record of all violations of rules, this record will include the details of the member in violation, and minutes from any meeting had regarding the situation.
+The Common Room Committee will keep a record of all violations of rules, this record will include the details of the member in violation, a record of the violation, and minutes from any meeting had regarding the situation.
 
-This record will only be shared outside of the Common Room Committee if it is to be shared with the office of student life.
+The member in violation will be provided with a document that outlines the violation and the date each warning was given.
+
+This record will only be shared outside of the Common Room Committee and the member in violation if it is to be shared with the office of student life.
 
 ## 3. Rules
 
