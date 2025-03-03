@@ -1,0 +1,17 @@
+name: Trigger atlas rebuild
+
+on:
+  push:
+    branches: [ "main" ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - name: Trigger atlas rebuild
+        uses: peter-evans/repository-dispatch@v3
+        with:
+          token: ${{ secrets.ATLAS_TOKEN }}
+          repository: redbrick/atlas
+          event-type: rebuild
