@@ -14,4 +14,4 @@ jobs:
         with:
           token: ${{ secrets.ATLAS_TOKEN }}
           repository: redbrick/atlas
-          event-type: rebuild
+          event-type: open-governance-rebuild
