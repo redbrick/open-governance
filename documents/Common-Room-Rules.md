@@ -27,13 +27,13 @@ id: Common-Room-Rules
 
 3.2 Any type of discrimination is completely prohibited. Violations of this will be taken very seriously.
 
-3.3 Any act that causes other members to feel uncomfortable will be put under immediate review by the common room committee who.
+3.3 Any act that causes other members to feel uncomfortable will be put under immediate review and reported to Dublin City University
 
-3.4 Illegal substances of any kind should not be brought into the common room, any instance of this occurring will be immediately brought up with Dublin City University.
+3.4 3.4 Illegal substances of any kind should not be brought into the common room, any instance of this occurring will be immediately reported to Dublin City University
 
-3.5 CLEAN YOUR DISHES, if you use a dish you have the responsibility of cleaning it.
+3.5 CLEAN YOUR DISHES, Ensure that all dishes used are either placed in the dishwasher or hand-washed and put away. Let's keep the space clean and be considerate for everyone who uses it. 
 
-3.6 CLEAN YOUR MESS, you are expected to clean any mess you create while either eating, drinking or doing any other activity. It is your responsibility to keep the room clean.
+3.6 CLEAN YOUR MESS,you are expected to clean any mess you create while either eating, drinking or doing any other activity. It is your responsibility to keep the room clean.
 
 3.7 Members are expected to maintain a reasonable level of hygiene while using the Common Room.
 
@@ -42,6 +42,7 @@ id: Common-Room-Rules
 4.1. The common room committee is composed of 3 members from both societies any questions, comments or concerns, you can speak to any of them without judgement.
 
 - The current common room committee members for Redbrick are: Shane, Kamil, and Daniel.
-- The current common room committee members for EngSoc are Shane, Eva and Matilde.
+
+- The current common room committee members for EngSoc are Eva, Shane and Matilde.
 
 4.2. Decisions regarding any other actions are up to the discretion of the common room committee.
