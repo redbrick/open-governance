@@ -1,7 +1,7 @@
 ---
 title: Common-Room-Rules
 created: 2024-01-18T20:27:15
-modified: 2025-03-29T02:40:58
+modified: 2025-03-14T019:18:58
 tags:
   - documents
 aliases:
@@ -18,6 +18,8 @@ id: Common-Room-Rules
 ## 2. Violations of Policy
 
 2.1 Violations of the Dignity and Respect at Work and Study Policy as outlined [Here](https://www.dcu.ie/policies/dignity-and-respect-work-and-study-policy), will result in an immediate escalation to Dublin City University.
+
+2.2 Not adhering to the guidelines outlined out in section 3, may result in an escalation to Dublin City University at the discretion of the common room committee.
 
 ## 3. Guidelines
 
@@ -40,6 +42,7 @@ id: Common-Room-Rules
 4.1. The common room committee is composed of 3 members from both societies any questions, comments or concerns, you can speak to any of them without judgement.
 
 - The current common room committee members for Redbrick are: Shane, Kamil, and Daniel.
+
 - The current common room committee members for EngSoc are Eva, Shane and Matilde.
 
 4.2. Decisions regarding any other actions are up to the discretion of the common room committee.
