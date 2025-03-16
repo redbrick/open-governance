@@ -29,7 +29,7 @@ id: Common-Room-Rules
 
 3.3 Any act that causes other members to feel uncomfortable will be put under immediate review and reported to Dublin City University.
 
-3.4 3.4 Illegal substances of any kind should not be brought into the common room, any instance of this occurring will be immediately reported to Dublin City University
+3.4 Illegal substances of any kind should not be brought into the common room, any instance of this occurring will be immediately reported to Dublin City University
 
 3.5 CLEAN YOUR DISHES, Ensure that all dishes used are either placed in the dishwasher or hand-washed and put away. Let's keep the space clean and be considerate for everyone who uses it.
 
