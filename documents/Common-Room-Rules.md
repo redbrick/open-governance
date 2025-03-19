@@ -13,7 +13,7 @@ id: Common-Room-Rules
 
 ## 1. Purpose of Policy
 
-1.1 This policy is designed to create a welcoming and safe environment. The common room is a communal space where members should act in acceptable, safe, respectful manner. It is also designed to maintain the cleanliness of the room. This room is a privilege bestowed to the members of the societies which may be revoked by the Common Room Committee, regardless of which society you are a part of.
+1.1 This policy is designed to create a welcoming and safe environment. The common room is a communal space where members should act in an acceptable, safe, and respectful manner. It is also designed to maintain the cleanliness of the room. This room is a privilege bestowed to the members of the societies which may be revoked by the Common Room Committee, regardless of which society you are a part of.
 
 ## 2. Violations of Policy
 
@@ -21,8 +21,12 @@ id: Common-Room-Rules
 
 - A verbal warning
     - If the behaviour continues the person will be subject to a Common Room ban.
-- In serious cases, a ban will be issued without warning.
-- Redbrick and EngSoc committees will be informed of every ban and warning issued.
+- In serious cases, a ban will be issued without warning, subject to approval by the Office of Student Life.
+-  In the case where a ban is warranted, the situation will be brought to the attention of the Office of Student Life, who will decide on the appropriate course of action.
+
+- Redbrick and EngSoc committees must be informed of the details of every ban and warning issued, and a shared record will be kept.
+- A member has the right to request anonymised minutes of the meeting(s) where the warning/ban was discussed.
+
 
 ## 3. Rules
 
@@ -42,9 +46,11 @@ id: Common-Room-Rules
 
 ## 4. Common Room Committee
 
-4.1. The common room committee is composed of 3 members from both societies any questions, comments or concerns, you can speak to any of them without judgement.
+4.1. The common room committee is composed of 3 committee members from both societies. If you have any questions, comments or concerns, you can speak to any of them without judgement.
 
-- The current common room committee members for Redbrick are: Shane, Dominic, and Daniel.
-- The current common room committee members for EngSoc are Gavin, Ana and Sam.
+- The current common room committee members for Redbrick are: Shane, Kamil, and Daniel.
+- The current common room committee members for EngSoc are Gavin, Ana, and Sam.
 
 4.2. Decisions regarding any other actions are up to the discretion of the common room committee.
+
+4.3. The common room committee shall keep a record of minutes of all meetings.
