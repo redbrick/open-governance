@@ -1,0 +1,54 @@
+\documentclass[12pt,a4paper]{article}
+
+% Reduced margins
+\usepackage[a4paper, margin=2cm]{geometry}
+
+% Font setup: use Inter as the main font
+\usepackage{fontspec}
+\setmainfont{Inter}
+
+\usepackage{microtype}
+\usepackage[english]{babel}
+\usepackage{listings}
+
+\usepackage{graphicx}
+\usepackage{svg} % For including SVG images
+
+% Header and footer customization
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+% Define header: text and a small SVG image on the top right
+\fancyhead[R]{%
+  \textbf{Redbrick: $title$}\quad\protect\includesvg[width=1cm]{logo}%
+}
+% Optional: place the page number in the center of the footer
+\fancyfoot[C]{\thepage}
+
+% Other packages
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=blue,
+  urlcolor=blue,
+  pdftitle={$title$},
+}
+
+% don't number headings
+\setcounter{secnumdepth}{0}
+
+
+% Define \tightlist to avoid errors
+\providecommand{\tightlist}{}
+
+% Optional: set line spacing if needed
+$if(linestretch)$
+\linespread{$linestretch$}
+$endif$
+
+\begin{document}
+
+$body$
+
+\end{document}
+
