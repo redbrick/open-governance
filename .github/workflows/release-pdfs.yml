@@ -1,0 +1,74 @@
+name: Build and Release PDFs
+
+on:
+  push:
+    branches:
+      - main
+      - master
+
+jobs:
+  build-and-release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Install Dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc texlive-xetex texlive-latex-extra inkscape libpoppler-cpp0v5 fonts-inter
+
+      - name: Convert Markdown to PDF
+        run: |
+          DATE=$(date -u +'%Y-%m-%dT%H:%M')
+          echo "Timestamp: $DATE"
+          CONSTITUTION_FILE="Constitution-${DATE}.pdf"
+          COMMON_ROOM_FILE="Common-Room-Rules-${DATE}.pdf"
+
+          curl -L -o logo.svg "https://raw.githubusercontent.com/redbrick/design-system/main/assets/logos/redbrick.svg"
+
+          pandoc documents/Constitution.md \
+            --template=documents/template.tex \
+            -o $CONSTITUTION_FILE \
+            --pdf-engine=xelatex \
+            --pdf-engine-opt=-shell-escape
+
+          pandoc documents/Common-Room-Rules.md \
+            --template=documents/template.tex \
+            -o $COMMON_ROOM_FILE \
+            --pdf-engine=xelatex \
+            --pdf-engine-opt=-shell-escape
+
+          echo "CONSTITUTION_FILE=$CONSTITUTION_FILE" >> $GITHUB_ENV
+          echo "COMMON_ROOM_FILE=$COMMON_ROOM_FILE" >> $GITHUB_ENV
+
+      - name: Create Release
+        id: create_release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: "v${{ github.run_number }}"
+          release_name: "Release v${{ github.run_number }}"
+          draft: false
+          prerelease: true
+
+      - name: Upload Constitution.pdf
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ${{ env.CONSTITUTION_FILE }}
+          asset_name: ${{ env.CONSTITUTION_FILE }}
+          asset_content_type: application/pdf
+
+      - name: Upload Common-Room-Rules.pdf
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ${{ env.COMMON_ROOM_FILE }}
+          asset_name: ${{ env.COMMON_ROOM_FILE }}
+          asset_content_type: application/pdf
