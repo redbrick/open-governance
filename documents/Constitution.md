@@ -63,7 +63,7 @@ The aims and objectives of the Society are as follows:
 - Treasurer
 - Public Relations Officer (PRO)
 
-**4.6** The Committee may also be assisted by the following non-core posistions:
+**4.6** The Committee may also be assisted by the following non-core positions:
 
 - Vice-Chairperson
 - Graphics Design Officer (GDO)
@@ -74,7 +74,7 @@ The aims and objectives of the Society are as follows:
 - 2x Events Officer
 - 2x Ordinary Member
 
-**4.6** The Term of Office of these elected officers shall be one academic year. The academic year ends when the AGM is held at the end of Semester 2.
+**4.6** The Term of Office of these elected officers shall be one academic year. A term shall be considered any time period greater than one academic semester. The academic year ends when the AGM is held at the end of Semester 2.
 
 **4.7** A person shall not hold the same office for more than 2 successive years.
 
