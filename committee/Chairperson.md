@@ -1,7 +1,7 @@
 ---
 title: Chairperson
 created: 2024-01-18T19:49:29
-modified: 2024-01-30T15:53:55
+modified: 2025-03-25T14:48:08
 ---
 
 # Chairperson
@@ -22,4 +22,4 @@ The Chair's job is to enable the other members of the Committee do what they do 
 
 As with nearly every leadership position, guide people with your actions. Your words are useful, but people won't listen to you if you don't practice what you preach.
 
-#### See also: [Vice-Chairperson](Vice-Chairperson.md), [Committee](Committee.md)
+#### See Also: [Vice-Chairperson](Vice-Chairperson.md), [Committee](Committee.md)
