@@ -3,7 +3,8 @@ id: DTS
 aliases:
   - DTS
   - ISS
-tags: []
+tags:
+  - technical
 created: 2024-01-18T19:49:29
 modified: 2024-01-30T17:27:42
 title: DTS
@@ -15,4 +16,4 @@ title: DTS
 
 ## Escalation Policy
 
-When an issue is flagged by DTS to the admins via email or other methods, the admins are obliged to investigate it. Redbrick is a component of the University and as such, is expected to conform to University security best practices.
+When an issue is flagged by DTS to the [admins](../../admin/admins.md) via email or other methods, the [admins](../../admin/admins.md) are obliged to investigate it. Redbrick is a component of the University and as such, is expected to conform to University security best practices.

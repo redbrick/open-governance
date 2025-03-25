@@ -1,7 +1,7 @@
 ---
-title: Open Governance
+title: README
 created: 2024-01-18T19:49:29
-modified: 2024-01-30T17:27:47
+modified: 2025-03-25T02:46:02
 index: true
 ---
 
@@ -22,7 +22,9 @@ The idea is to enable a model of [Open Governance](knowledge/terminology/Open%20
 This documentation is best viewed using a tool called [Obsidian](https://obsidian.md). Clone this repository locally and open the directory with Obsidian. This will allow links to work in a wiki-like manner.
 
 ### Obsidian Configuration
-For use with obsidian we reccommend the following plugins.
+
+For use with obsidian we recommend the following plugins.
+
   - Advanced Tables by Tony Grosinger Github Obsidian
   - Git by Vinzent, (Denis Olehov) Github Obsidian
   - Minimal Theme Settings by @kepano Github Obsidian
@@ -30,7 +32,7 @@ For use with obsidian we reccommend the following plugins.
 
 To Enable these plugins go to Settings > Community Plugins > Turn On Community Plugins > Browse. Search, Install and Enable each of the plugins above.
 
-If you need to quickly reference this documentation, then a version of the documentation will be rendered at https://redbrick.dcu.ie.
+If you need to quickly reference this documentation, then a version of the documentation will be rendered at https://redbrick.dcu.ie/open-governance.
 
 If you prefer, you can view these files as plain markdown in any text editor and follow links manually.
 
@@ -44,28 +46,28 @@ Once the tag has been ratified, the Governing Executive Committee shall be bound
 
 The [Secretary](committee/Secretary.md) will keep a record of events occurring during Committee meetings. To comply with data protection, all members have the [Right to be Forgotten](knowledge/policies/Right%20to%20be%20Forgotten.md). [Redacted Information](knowledge/policies/Redacted%20Information.md) should also be clearly labelled in minutes.
 
-- accountable for changes
+- Accountable for changes
 - torrent out a version of the docs
   - Ensuring no sneaky business
 - changes accountable for all to see
 - could be a FOSDEM talk
-- FOSDEM, the Linux Foundation, etc would all be jealous. other netsocs would strive and follow the model
+- FOSDEM, the Linux Foundation, etc. would all be jealous. Other netsocs would strive and follow the model
 - we cannot change it without pushing a new version
 - change control management
 - use obsidian for the linking
 
 # Awards
 
-- at your discretionary doc based on contributions
+- At your discretionary doc based on contributions
 - Generate "this year in redbrick" based on diff from tag to head.
-- blueblock is redbrick antithesis, only buy one hoodie, sign up for both at c&s fair. The only chance you have to join blueblock. Hoodie comes as option only for Blueblock members.
-- bring in other netsocs to describe our new governance policy on things:
+- Blueblock is redbrick antithesis, only buy one hoodie, sign up for both at c&s fair. The only chance you have to join blueblock. Hoodie comes as option only for Blueblock members.
+- Bring in other netsocs to describe our new governance policy on things:
   - open invite 1 euro ticket donation to charity
   - 2 tech 2 governance talks
   - 15 mins of lightning talks
   - pub afterwards
-  - food etc
-  - enthuse about open governance open tech etc stack
+  - food etc.
+  - enthuse about open governance open tech etc. stack
   - if no RSVP bring in membership, remove fee and get sponsorship
 
 # Goals

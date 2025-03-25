@@ -2,6 +2,8 @@
 title: C&S Awards Night Ball
 created: 2024-02-09T14:17:18
 modified: 2024-02-09T14:24:20
+tags:
+  - policies
 ---
 
 Every year, Clubs and Socs hold a ball to show off the work done by students during the year. This is a great way to round out the year and is usually a great night.

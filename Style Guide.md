@@ -1,8 +1,12 @@
 ---
-title: Style Guide
+id: Style Guide
+aliases:
+  - Style Guide
+tags: []
 created: 2024-01-30T04:14:59
-modified: 2024-01-30T04:40:56
 hidden: true
+modified: 2024-01-30T04:40:56
+title: Style Guide
 ---
 
 # Style Guide
