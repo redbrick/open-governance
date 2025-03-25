@@ -1,8 +1,11 @@
 ---
 title: Vice-Chairperson
 created: 2025-03-25T01:58:35
-modified: 2025-03-25T02:08:08
+modified: 2025-03-25T02:37:04
+tags:
+  - committee
 ---
+
 # Vice-Chairperson
 
 ## Constitution Definition
@@ -13,4 +16,4 @@ modified: 2025-03-25T02:08:08
 >
 >**6.4** The Vice-Chairperson shall assume the duties of The Chairperson (unless otherwise directed by a general meeting of the Society) in the event that The Chairperson is absent or is unable to perform their duties.
 
-#### See also: [Chairperson](Chairperson.md), [Committee](Committee.md)
+#### See Also: [Chairperson](Chairperson.md), [Committee](Committee.md)

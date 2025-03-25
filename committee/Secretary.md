@@ -1,7 +1,9 @@
 ---
 title: Secretary
 created: 2024-01-18T19:49:29
-modified: 2024-01-30T15:54:40
+modified: 2025-03-25T02:37:03
+tags:
+  - committee
 ---
 
 # Secretary
@@ -17,7 +19,7 @@ modified: 2024-01-30T15:54:40
 >**6.7** The Secretary shall give notice to all members of the Society's meetings, events, and functions through email.
 >
 >**6.8** The Secretary shall assist the Public Relations Officer to organise fund raising events and sponsorship where necessary.
+
 ## Notes
 
-
-#### See also: [Public Relations Officer](Public%20Relations%20Officer.md), [Graphics Design Officer](Graphics%20Design%20Officer.md), [Committee](Committee.md)
+#### See Also: [Public Relations Officer](Public%20Relations%20Officer.md), [Graphics Design Officer](Graphics%20Design%20Officer.md), [Committee](Committee.md)

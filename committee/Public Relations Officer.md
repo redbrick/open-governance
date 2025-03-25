@@ -1,10 +1,12 @@
 ---
 title: Public Relations Officer
 created: 2024-01-18T19:49:29
-modified: 2025-03-25T02:09:53
+modified: 2025-03-25T02:36:51
+tags:
+  - committee
+  - social
 aliases:
   - PRO
-  - social
 ---
 
 # Public Relations Officer (PRO)
@@ -18,5 +20,4 @@ aliases:
 
 ## Notes
 
-
-#### See also: [GDO](Graphics%20Design%20Officer.md), [Secretary](Secretary.md), [Committee](Committee.md)
+#### See Also: [GDO](Graphics%20Design%20Officer.md), [Secretary](Secretary.md), [Committee](Committee.md)

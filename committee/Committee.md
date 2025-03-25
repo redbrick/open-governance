@@ -1,9 +1,11 @@
 ---
 title: Committee
 created: 2024-01-18T19:49:29
-modified: 2024-01-30T17:43:22
+modified: 2025-03-25T02:36:40
 index: true
 ---
+
+# Committee
 
 ## Constitution Definition
 

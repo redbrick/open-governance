@@ -1,13 +1,13 @@
 ---
 title: Webmaster
 created: 2024-01-18T19:49:29
-modified: 2024-01-30T15:53:08
-index: true
+modified: 2025-03-25T02:37:12
 tags:
   - committee
   - webmaster
   - webgroup
   - technical
+index: true
 ---
 
 # Webmaster
@@ -22,5 +22,4 @@ The Webmaster is tasked with advising and assisting other clubs and societies in
 
 The Webmaster is also in charge of spearheading the [Webgroup](../../webgroup/Webgroup.md) in order to ensure it's smooth operation.
 
-
-#### See also: [Webgroup](../../webgroup/Webgroup.md), [Systems Administrators](../../admin/admins.md), [Committee](Committee.md)
+#### See Also: [Webgroup](../../webgroup/Webgroup.md), [Systems Administrators](../../admin/admins.md), [Committee](Committee.md)

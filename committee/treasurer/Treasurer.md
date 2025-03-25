@@ -1,7 +1,9 @@
 ---
 title: Treasurer
 created: 2024-01-18T19:49:29
-modified: 2024-01-30T15:53:19
+modified: 2025-03-25T02:37:58
+tags:
+  - committee
 index: true
 ---
 
@@ -24,3 +26,5 @@ Where the Treasurer is decreed as unavailable, another designated person may sig
 ## Other Information
 
 For information on the bank account, see [Banking](Banking.md).
+
+#### See Also: [Chairperson](Chairperson.md), [Committee](Committee.md)
