@@ -12,7 +12,7 @@ tags:
 
 [6 Duties of the Governing Executive Committee](../documents/Constitution.md#6%20Duties%20of%20the%20Governing%20Executive%20Committee)
 
-> **6.5** The Secretary shall deal with all correspondence and records of the Society.
+>**6.5** The Secretary shall deal with all correspondence and records of the Society.
 >
 >**6.6** The Secretary keeps minutes of all Committee meetings, of all general meetings, of the Annual General Meeting, or any other meetings related to the business of the Society when requested by the Committee.
 >
