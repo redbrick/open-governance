@@ -1,24 +1,24 @@
 ---
-title: Discord Bots
-created: 2024-01-18T19:49:29
-modified: 2025-03-25T14:31:34
+id: Discord Bots
+aliases:
+  - Discord Bots
 tags:
   - admins
   - webmaster
   - webgroup
   - webgroup-github
   - technical
-aliases:
-  - Discord Bots
-id: Discord Bots
+created: 2024-01-18T19:49:29
+modified: 2025-03-25T14:31:34
+title: Discord Bots
 ---
 
 # Discord Bots
 
 Currently in Redbrick, we have 2 Discord bots:
 
-- [Brickbot2](https://github.com/redbrick/Brickbot2)
-- [Blockbot](https://github.com/redbrick/Blockbot/)
+- [Brickbot2](https://github.com/redbrick/brickbot2)
+- [Blockbot](https://github.com/redbrick/blockbot/)
 
 Brickbot is currently used only by the [admins](../admin/admins.md) to perform administrative operations (e.g. LDAP operations on user accounts).
 
@@ -28,4 +28,4 @@ Unlike Brickbot, Blockbot *does not* and *will not* have direct access to LDAP. 
 
 Once the [admins](../admin/admins.md) and [Webmaster](../committee/webmaster/Webmaster.md) decide Blockbot has reached feature-parity with Brickbot2 for administrative tasks, Blockbot may be renamed to Brickbot *(3?)*, will be re-branded accordingly, and Brickbot2 will be retired. The development version of Blockbot, BlockbotDev, may also follow this branding or remain as-is.
 
-Blockbot is a [webgroup](Webgroup.md) project, and as such, encourages all members to contribute to it. It is documented extensively on [docs.redbrick.dcu.ie](https://docs.redbrick.dcu.ie/webgroup/Blockbot/) to ensure ease of contribution.
+Blockbot is a [webgroup](Webgroup.md) project, and as such, encourages all members to contribute to it. It is documented extensively on [docs.redbrick.dcu.ie](https://docs.redbrick.dcu.ie/webgroup/blockbot/) to ensure ease of contribution.
