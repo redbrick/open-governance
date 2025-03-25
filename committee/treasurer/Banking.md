@@ -1,8 +1,10 @@
 ---
 title: Banking
 created: 2024-01-18T19:49:29
-modified: 2024-01-18T20:12:16
+modified: 2025-03-25T02:37:26
 ---
+
+# Banking
 
 The [Treasurer](Treasurer.md) is in charge of finances for the society, this includes the bank account. Details of the bank account can be found in the committee chat.
 

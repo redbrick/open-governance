@@ -1,7 +1,7 @@
 ---
 title: Chairperson
 created: 2024-01-18T19:49:29
-modified: 2024-01-30T15:53:55
+modified: 2025-03-25T14:48:08
 ---
 
 # Chairperson
@@ -21,3 +21,5 @@ The Redbrick OMS must be unlocked at the start of each academic year. This requi
 The Chair's job is to enable the other members of the Committee do what they do best, the roles they were elected for. That's not achieved by having the most knowledge, though some is helpful. It's not achieved by being the most liked. It's achieved by having courage and confidence in the other Committee members, and the courage to pull them together towards your vision for the society.
 
 As with nearly every leadership position, guide people with your actions. Your words are useful, but people won't listen to you if you don't practice what you preach.
+
+#### See Also: [Vice-Chairperson](Vice-Chairperson.md), [Committee](Committee.md)
