@@ -2,6 +2,8 @@
 title: Redacted Information
 created: 2024-01-18T19:49:29
 modified: 2024-01-18T20:12:16
+tags:
+  - policies
 ---
 
 Some information should not be made public knowledge, for reasons including but not limited to:

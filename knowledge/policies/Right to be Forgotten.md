@@ -2,6 +2,8 @@
 title: Right to be Forgotten
 created: 2024-01-18T19:49:29
 modified: 2024-01-18T20:12:16
+tags:
+  - policies
 ---
 
 Every member of the society has the right to be forgotten. This means that when referencing committee members in minutes, communications documented in this repository, and any other public place, their position on the committee shall be referenced in place of their username.

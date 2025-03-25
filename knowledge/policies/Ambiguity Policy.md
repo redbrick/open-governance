@@ -2,6 +2,8 @@
 title: Ambiguity Policy
 created: 2024-01-18T19:49:29
 modified: 2024-01-18T20:12:16
+tags:
+  - policies
 ---
 
 In case of ambiguity, Redbrick's constitution shall supersede any rules set out by any subgroup.
