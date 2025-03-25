@@ -15,8 +15,7 @@ aliases:
 
 [6 Duties of the Governing Executive Committee](../documents/Constitution.md#6%20Duties%20of%20the%20Governing%20Executive%20Committee)
 
->**6.14** The Public Relations Officer (PRO), along with the Secretary, shall be responsible for the advertising of all functions of the Society through all means possible.
->**6.15** The Public Relations Officer (PRO), along with the Secretary, shall deal with external correspondence and maintain record of the contribution of outside bodies have had for the Society and to give notice of all members of these contributions.
+>**6.23** The Graphics Design Officer (GDO) shall be responsible for the design and creation of art assets for events and promotional materials. They shall also liaise with the Events Officer(s), PRO and Secretary in the commissioning and distribution of said materials.
 
 ## Notes
 
