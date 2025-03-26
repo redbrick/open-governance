@@ -5,10 +5,14 @@ on:
     branches:
       - main
       - master
+    tags:
+      - "*-agm"
+      - "*-egm"
 
 jobs:
-  build-and-release:
+  build:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
@@ -20,10 +24,8 @@ jobs:
 
       - name: Convert Markdown to PDF
         run: |
-          DATE=$(date -u +'%Y-%m-%dT%H:%M')
-          echo "Timestamp: $DATE"
-          CONSTITUTION_FILE="Constitution-${DATE}.pdf"
-          COMMON_ROOM_FILE="Common-Room-Rules-${DATE}.pdf"
+          CONSTITUTION_FILE="Constitution.pdf"
+          COMMON_ROOM_FILE="Common-Room-Rules.pdf"
 
           curl -L -o logo.svg "https://raw.githubusercontent.com/redbrick/design-system/main/assets/logos/redbrick.svg"
 
@@ -42,33 +44,124 @@ jobs:
           echo "CONSTITUTION_FILE=$CONSTITUTION_FILE" >> $GITHUB_ENV
           echo "COMMON_ROOM_FILE=$COMMON_ROOM_FILE" >> $GITHUB_ENV
 
-      - name: Create Release
-        id: create_release
+      # Master Release (Rolling)
+
+      - name: Delete existing master release and tag
+        if: github.event_name == 'push' && startsWith(github.ref, 'refs/heads/')
+        run: |
+          gh release delete master --yes || true
+          git push origin :refs/tags/master || true
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Get previous AGM/EGM tag
+        id: last_tag
+        if: github.event_name == 'push' && startsWith(github.ref, 'refs/heads/')
+        run: |
+          git fetch --tags
+          TAG=$(git tag --list "*-agm" "*-egm" --sort=-creatordate | head -n 1)
+          echo "LAST_TAG=$TAG" >> $GITHUB_ENV
+          echo "Found last AGM/EGM tag: $TAG"
+
+      - name: Generate changelog
+        id: changelog
+        if: github.event_name == 'push' && startsWith(github.ref, 'refs/heads/')
+        run: |
+          if [ -n "$LAST_TAG" ]; then
+            LOG=$(gh api repos/${{ github.repository }}/compare/$LAST_TAG...HEAD \
+              --jq '.commits | map("- " + .commit.message + " by @" + .author.login) | join("\n")')
+            echo -e "## What's Changed\n$LOG\n\nFull Changelog: https://github.com/${{ github.repository }}/compare/$LAST_TAG...master" > RELEASE.md
+          else
+            echo "## What's Changed\nNo previous AGM/EGM tag found." > RELEASE.md
+          fi
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          LAST_TAG: ${{ env.LAST_TAG }}
+
+      - name: Create master Release with changelog
+        if: github.event_name == 'push' && startsWith(github.ref, 'refs/heads/')
+        run: |
+          gh release create master \
+            --title "master Build" \
+            --notes-file RELEASE.md \
+            --prerelease \
+            --target ${{ github.sha }}
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Get master release upload URL (retry if not found)
+        if: github.event_name == 'push' && startsWith(github.ref, 'refs/heads/')
+        id: get_master_upload_url
+        run: |
+          for i in {1..5}; do
+            echo "Attempt $i to fetch master release upload URL..."
+            UPLOAD_URL=$(gh api repos/${{ github.repository }}/releases/tags/master --jq '.upload_url' 2>/dev/null) && break || sleep 3
+          done
+
+          if [ -z "$UPLOAD_URL" ]; then
+            echo "Failed to fetch upload_url after 5 attempts"
+            exit 1
+          fi
+
+          echo "upload_url=${UPLOAD_URL}" >> $GITHUB_OUTPUT
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Upload Constitution PDF (master)
+        if: github.event_name == 'push' && startsWith(github.ref, 'refs/heads/')
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.get_master_upload_url.outputs.upload_url }}
+          asset_path: ${{ env.CONSTITUTION_FILE }}
+          asset_name: Constitution.pdf
+          asset_content_type: application/pdf
+
+      - name: Upload Common Room PDF (master)
+        if: github.event_name == 'push' && startsWith(github.ref, 'refs/heads/')
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.get_master_upload_url.outputs.upload_url }}
+          asset_path: ${{ env.COMMON_ROOM_FILE }}
+          asset_name: Common-Room-Rules.pdf
+          asset_content_type: application/pdf
+
+      # Tagged Release (AGM/EGM)
+
+      - name: Create AGM/EGM Tag Release
+        if: startsWith(github.ref, 'refs/tags/') && (contains(github.ref, '-agm') || contains(github.ref, '-egm'))
+        id: create_tag_release
         uses: actions/create-release@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          tag_name: "v${{ github.run_number }}"
-          release_name: "Release v${{ github.run_number }}"
+          tag_name: ${{ github.ref_name }}
+          release_name: "Release ${{ github.ref_name }}"
           draft: false
-          prerelease: true
+          prerelease: false
 
-      - name: Upload Constitution.pdf
+      - name: Upload Constitution PDF (tag)
+        if: startsWith(github.ref, 'refs/tags/') && (contains(github.ref, '-agm') || contains(github.ref, '-egm'))
         uses: actions/upload-release-asset@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          upload_url: ${{ steps.create_tag_release.outputs.upload_url }}
           asset_path: ${{ env.CONSTITUTION_FILE }}
-          asset_name: ${{ env.CONSTITUTION_FILE }}
+          asset_name: Constitution.pdf
           asset_content_type: application/pdf
 
-      - name: Upload Common-Room-Rules.pdf
+      - name: Upload Common Room PDF (tag)
+        if: startsWith(github.ref, 'refs/tags/') && (contains(github.ref, '-agm') || contains(github.ref, '-egm'))
         uses: actions/upload-release-asset@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          upload_url: ${{ steps.create_tag_release.outputs.upload_url }}
           asset_path: ${{ env.COMMON_ROOM_FILE }}
-          asset_name: ${{ env.COMMON_ROOM_FILE }}
+          asset_name: Common-Room-Rules.pdf
           asset_content_type: application/pdf
+
