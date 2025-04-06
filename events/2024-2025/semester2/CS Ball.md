@@ -16,7 +16,7 @@ tags:
 
 ## Summary
 
-Good attendance. 3 course meal. Nice photographer. Ran until ~2am.
+Good attendance for the event between the 3 universities. 3 course meal was provided and the staff were all very professional. Photographer was very involved and enthusiastic. Awards were given out for the best dressed boy, girl and couple. The event ran until ~2am.
 
 ## Contact
 

@@ -17,12 +17,13 @@ tags:
 
 ## Summary
 
-~1 hour talk about the components that make the internet work, and what Arista does. Food was on time. 
+Colin Benson gave an engaging ~1.5 hour talk about the components that make the internet work and what Arista does. Food was on time.
 
 ## Contact
 
-Emer O'Kelly from Arista was in contact for this event.
+Emer O'Kelly and Colin Benson from Arista were in contact for this event.
 
 ## Issues Arrising
 
-Issue with room getting over-booked during event for exams. 
+Issue with room getting over-booked during event for exams - had to find a last second backup. 
+~10 people cancelled/couldn't make it.
