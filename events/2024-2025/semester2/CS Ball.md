@@ -25,5 +25,3 @@ TUD and UCD computer societies.
 ## Issues Arrising
 
 Delay in getting event approved due to ambiguity about who's actually hosting the event. (Which university's name was actually on the document).
-
-British was DJ.
