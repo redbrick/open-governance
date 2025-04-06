@@ -2,7 +2,17 @@
 title: Christmas Party
 created: 2024-04-6T15:57:29
 modified: 2024-04-6T15:57:29
+tags: 
+  - christmas
+  - party
 ---
+
+| Event details |            |
+| ------------- | ---------- |
+| Time          | 18:00      |
+| Date          | 2024-11-26 |
+| Location      | Nubar      |
+| Turnout       | ~20 people |
 
 ## Summary
 
