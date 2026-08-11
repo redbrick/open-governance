@@ -8,9 +8,10 @@ When utilising the Redbrick infrastructure for hosting services, a designated Po
 
 In order to initiate hosting, the following information must be provided to Redbrick:
 
-1. **Dockerfile**: A complete and accurate Dockerfile.
+1. **Dockerfile** (Optional): A complete and accurate Dockerfile.
 2. **Build Artifacts**: A pre-built and published image.
 3. **Service Dependencies**: A list of services upon which the application depends on.
+4. Any further prerequisites or requirements needed.
 
 It is imperative that this information remains current. Should there be any changes, the POC must notify Redbrick immediately. At a minimum, the contact details must include an email address of the individual or entity in charge.
 
