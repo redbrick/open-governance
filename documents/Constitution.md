@@ -66,7 +66,7 @@ The aims and objectives of the Society are as follows:
 **4.6** The Committee may also be assisted by the following non-core positions:
 
 - Vice-Chairperson
-- Graphics Design Officer
+- Graphics Design Officer (GDO)
 - First Year Representative
 - Webmaster
 - 3x Systems Administrator
@@ -122,7 +122,7 @@ The aims and objectives of the Society are as follows:
 
 **6.14** The Public Relations Officer, along with the Secretary, shall be responsible for the advertising of all functions of the Society through all means possible.
 
-**6.15** The Public Relations Officer, along with the Secretary, shall deal with external correspondence and maintain record of the contribution of outside bodies have had for the Society. They shall endeavour to notify all members of these contributions.
+**6.15** The Public Relations Officer, along with the Secretary, shall deal with external correspondence and maintain record of the contribution of outside bodies have had for the Society. They shall notify all members of these contributions.
 
 **6.16** The Systems Administrators shall be held ultimately responsible for the administration, security, and maintenance of the Society's computer systems. They shall be responsible for the notification of the Committee in regard to any breaches of the rules and regulations of the system. They are hereby authorised to take any administrative action necessary to discharge their duties, so long as such actions are constitutional. Such actions are open to review by the Committee.
 
@@ -130,7 +130,7 @@ The aims and objectives of the Society are as follows:
 
 **6.18** The Webmaster is also tasked with advising and assisting other clubs and societies in their endeavours to publicise themselves on the web.
 
-**6.19** The Helpdesk role is to answer the system-related questions of the Society's membership, and to detail, organise, and implement beneficial tutorials for the Members.
+**6.19** The Helpdesk role shall answer the system-related questions of the Society's membership, and to detail, organise, and implement beneficial tutorials for the Members.
 
 **6.20** The Events Officer shall have the responsibility of organising all receptions and events held by the Society.
 
