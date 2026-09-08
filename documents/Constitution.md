@@ -130,7 +130,7 @@ The aims and objectives of the Society are as follows:
 
 **6.18** The Webmaster is also tasked with advising and assisting other clubs and societies in their endeavours to publicise themselves on the web.
 
-**6.19** The Helpdesk role shall answer the system-related questions of the Society's membership, and to detail, organise, and implement beneficial tutorials for the Members.
+**6.19** The Helpdesk position shall answer the system-related questions of the Society's membership, and to detail, organise, and implement beneficial tutorials for the Members.
 
 **6.20** The Events Officer shall have the responsibility of organising all receptions and events held by the Society.
 
