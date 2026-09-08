@@ -66,8 +66,8 @@ The aims and objectives of the Society are as follows:
 **4.6** The Committee may also be assisted by the following non-core positions:
 
 - Vice-Chairperson
-- Graphics Design Officer (GDO)
-- First Year Rep
+- Graphics Design Officer
+- First Year Representative
 - Webmaster
 - 3x Systems Administrator
 - 2x Helpdesk
@@ -90,7 +90,7 @@ The aims and objectives of the Society are as follows:
 - A third party nominated by the outgoing Webmaster, Helpdesk, or a majority of Systems Administrators.
 - A committee nominated third party in the case that none of the above criteria can be accommodated.
 
-**5.4** The 1st Year Liaison Officer shall be elected at an EGM in semester one, and must be in their first year as an undergraduate student at DCU.
+**5.4** The First Year Representative shall be elected at an EGM in semester one, and must be in their first year as an undergraduate student at DCU.
 
 ## 6 Duties of the Governing Executive Committee
 
@@ -120,9 +120,9 @@ The aims and objectives of the Society are as follows:
 
 **6.13** Where the Treasurer is decreed as unavailable, another designated person may sign cheques and withdrawal forms for the Society on consultation with the Society Life Committee.
 
-**6.14** The Public Relations Officer (PRO), along with the Secretary, shall be responsible for the advertising of all functions of the Society through all means possible.
+**6.14** The Public Relations Officer, along with the Secretary, shall be responsible for the advertising of all functions of the Society through all means possible.
 
-**6.15** The Public Relations Officer (PRO), along with the Secretary, shall deal with external correspondence and maintain record of the contribution of outside bodies have had for the Society and to give notice of all members of these contributions.
+**6.15** The Public Relations Officer, along with the Secretary, shall deal with external correspondence and maintain record of the contribution of outside bodies have had for the Society. They shall endeavour to notify all members of these contributions.
 
 **6.16** The Systems Administrators shall be held ultimately responsible for the administration, security, and maintenance of the Society's computer systems. They shall be responsible for the notification of the Committee in regard to any breaches of the rules and regulations of the system. They are hereby authorised to take any administrative action necessary to discharge their duties, so long as such actions are constitutional. Such actions are open to review by the Committee.
 
@@ -130,15 +130,15 @@ The aims and objectives of the Society are as follows:
 
 **6.18** The Webmaster is also tasked with advising and assisting other clubs and societies in their endeavours to publicise themselves on the web.
 
-**6.19** The Helpdesk's role is to answer the system-related questions of the Society's membership, and to detail, organise, and implement beneficial tutorials for the Members.
+**6.19** The Helpdesk role is to answer the system-related questions of the Society's membership, and to detail, organise, and implement beneficial tutorials for the Members.
 
 **6.20** The Events Officer shall have the responsibility of organising all receptions and events held by the Society.
 
-**6.21** First Year Liaison Officer shall work with the Committee to make the Society more accessible for first year students. As part of this they will work closely with the Events Officers, Public Relations Officer and Helpdesk where applicable.
+**6.21** The First Year Representative shall work with the Committee to make the Society more accessible for first year students. As part of this they will work closely with the Events Officers, Public Relations Officer and Helpdesk where applicable.
 
 **6.22** The Ordinary Member shall be an assisting figure within the Society. They shall be be involved in assisting other Committee Members in their duties and the organisation and running of events.
 
-**6.23** The Graphics Design Officer (GDO) shall be responsible for the design and creation of art assets for events and promotional materials. They shall also liaise with the Events Officer(s), PRO and Secretary in the commissioning and distribution of said materials.
+**6.23** The Graphics Design Officer shall be responsible for the design and creation of art assets for events and promotional materials. They shall also liaise with the Events Officer(s), PRO and Secretary in the commissioning and distribution of said materials.
 
 **6.24** The Committee shall endeavour to meet weekly during term time, at which a majority of the Committee must attend.
 
@@ -181,7 +181,7 @@ A Committee Member wishing to resign must submit a letter in writing declaring t
 
 **8.9** At a meeting, a member may propose a resolution relating to the business of the Society. The resolution shall be voted on by a show of hands and a declaration by the Chairperson that the resolution is carried (unless a secret ballot is demanded by any 5 members) shall be conclusive evidence that the resolution has passed or failed.
 
-**8.10** In the event that the Chairperson's resolution (8.9) is challenged, a recount if the votes will be administered in which a number of appropriate people will be appointed as "tellers" to count the vote. The result will be announced by the Chairperson or the Vice-Chairperson (where requested by the general meeting). No resolution may contravene DCU or Society Life Committee policies.
+**8.10** In the event that the Chairperson's resolution (8.9) is challenged, a recount of the votes will be administered in which a number of appropriate people will be appointed as "tellers" to count the vote. The result will be announced by the Chairperson or the Vice-Chairperson (where requested by the general meeting). No resolution may contravene DCU or Society Life Committee policies.
 
 ## 9 General
 
