@@ -5,7 +5,7 @@ aliases:
   - constitution
 tags: []
 created: 2024-01-18T20:26:47
-modified: 2024-01-30T04:33:36
+modified: 2026-09-08T14:29:36
 title: Constitution
 ---
 
