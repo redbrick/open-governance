@@ -2,43 +2,37 @@
 
 ## Hosting Agreement Overview
 
-When utilising Redbrick infrastructure for hosting services, a designated Point of Contact (POC) must be established for all communications with Redbrick. This individual will be responsible for the ongoing maintenance of the hosted service.
-
+When you host a project on Redbrick, a designated Point of Contact (PoC) must be established for all communications with Redbrick. This individual will be responsible for maintaining the project.
 ## Submission Requirements
 
-In order to initiate hosting, the following information must be provided to Redbrick:
+Before we start hosting your project you need to:
+1. Setup a mirror of your code to redbrick git.
+2. Upload a docker image to our container registry.
+3. Keep track of dependencies and security vulnerabilities (e.g. Use Dependabot on GitHub).
+4. Provide us with an up to date and well documented list of any requirements (resource utilisation, open ports etc.)
 
-1. **Dockerfile** (Optional): A complete and accurate Dockerfile.
-2. **Build Artifacts**: A pre-built and published image.
-3. **Service Dependencies**: A list of services upon which the application depends on.
-4. Any further prerequisites or requirements needed.
+This information **needs** to stay up-to-date. If there are any changes, the PoC must notify Redbrick immediately. At a minimum, the contact details must include an email address of the individual or group responsible for maintaining the project.
 
-It is imperative this information remains current. Should there be any changes, the POC must notify Redbrick immediately. At a minimum, the contact details must include an email address of the individual or entity in charge.
+While you do not need to primarily manage your project using our git hosting services, we require that you **mirror** your repository to redbrick git and upload your docker image to our container registry. We **cannot** accept GitHub credentials under any circumstances.
+## Disclaimer
 
-Redbrick should have access to the service's source code repository, preferably hosted on GitHub, to facilitate monitoring for potential vulnerabilities.
+While we will do our best to host your project, we **do not** claim any responsibility for the security or stability of your project, nor do we guarantee any amount of uptime. 
+We **will not** claim responsibility for the safety or security of any secrets in your project.
+We reserve the right to **refuse or cease hosting** of your project for any reason, at any time.
 
-## Liability Disclaimer
-
-While Redbrick is able to host the service, it does not claim any responsibility for the security or stability of that service, nor does it guarantee any amount of uptime. 
-
-Additionally, Redbrick **will not** host any services that are illegal or violate any applicable laws or regulations of the Republic of Ireland or the European Union.
-
-Redbrick is also not responsible for managing or safeguarding the secrets or credentials of users or third parties.
-
+Redbrick **will not** host any services that are illegal or violate any applicable laws or regulations of the Republic of Ireland or the European Union.
 ## Vulnerability Management
 
-In the event the service's source code is hosted on GitHub, it is a requirement that Dependabot alerts or a similar mechanism is activated to monitor for potential vulnerabilities. 
+You should take steps to ensure that you are always on top of vulnerabilities found in any of the dependencies of your project (e.g. Dependabot on GitHub).
 
-In the event a vulnerability or weakness is identified, Redbrick reserves the right to enforce a deadline for remediation based on the following severity levels:
-
-- **Medium**: Up to 3-4 weeks for resolution
-- **High**: Up to 2 weeks for resolution
+In the event a vulnerability or weakness is identified, you are required address the issue in a timely manner as follows:
+- **Medium**: Up to 1 month for resolution
+- **High**: Up to 1 week for resolution
 - **Critical**: Immediate suspension of service until the vulnerability is addressed and resolved
 
 > Severity levels are determined by the Common Vulnerability Scoring System (CVSS) or official GitHub Dependabot alerts, unless the Redbrick Systems Administrators alter the assigned severity level based on a justified technical reason.
 
-Should these standards not be adhered to, Redbrick retains the right to terminate hosting services without further notice. A formal notification will be provided to the designated Point of Contact.
-
+Should these standards not be adhered to, Redbrick reserves the right to terminate hosting services immediately. A formal notification will be provided to the designated Point of Contact.
 ## Conclusion
 
 By engaging with Redbrick's hosting services, all parties acknowledge and accept these terms and conditions. Further clarification regarding our offerings and limitations can be provided upon request.
