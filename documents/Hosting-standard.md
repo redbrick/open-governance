@@ -2,7 +2,7 @@
 
 ## Hosting Agreement Overview
 
-When utilising the Redbrick infrastructure for hosting services, a designated Point of Contact (POC) must be established for all communications with Redbrick. This individual will be responsible for the ongoing maintenance of the hosted service.
+When utilising Redbrick infrastructure for hosting services, a designated Point of Contact (POC) must be established for all communications with Redbrick. This individual will be responsible for the ongoing maintenance of the hosted service.
 
 ## Submission Requirements
 
@@ -13,7 +13,7 @@ In order to initiate hosting, the following information must be provided to Redb
 3. **Service Dependencies**: A list of services upon which the application depends on.
 4. Any further prerequisites or requirements needed.
 
-It is imperative that this information remains current. Should there be any changes, the POC must notify Redbrick immediately. At a minimum, the contact details must include an email address of the individual or entity in charge.
+It is imperative this information remains current. Should there be any changes, the POC must notify Redbrick immediately. At a minimum, the contact details must include an email address of the individual or entity in charge.
 
 Redbrick should have access to the service's source code repository, preferably hosted on GitHub, to facilitate monitoring for potential vulnerabilities.
 
@@ -35,7 +35,7 @@ In the event a vulnerability or weakness is identified, Redbrick reserves the ri
 - **High**: Up to 2 weeks for resolution
 - **Critical**: Immediate suspension of service until the vulnerability is addressed and resolved
 
-> Severity levels are determined by the Common Vulnerability Scoring System (CVSS) or official GitHub Dependabot alerts, unless the Redbrick Systems Administrators alters the assigned severity level based on a justified technical reason
+> Severity levels are determined by the Common Vulnerability Scoring System (CVSS) or official GitHub Dependabot alerts, unless the Redbrick Systems Administrators alter the assigned severity level based on a justified technical reason.
 
 Should these standards not be adhered to, Redbrick retains the right to terminate hosting services without further notice. A formal notification will be provided to the designated Point of Contact.
 
