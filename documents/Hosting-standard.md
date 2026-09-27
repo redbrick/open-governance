@@ -15,6 +15,8 @@ In order to initiate hosting, the following information must be provided to Redb
 
 It is imperative that this information remains current. Should there be any changes, the POC must notify Redbrick immediately. At a minimum, the contact details must include an email address of the individual or entity in charge.
 
+Redbrick should access to the service's source code repository, preferably hosted on GitHub, to facilitate monitoring for potential vulnerabilities.
+
 ## Liability Disclaimer
 
 While Redbrick is able to host the service, it does not claim any responsibility for the security or stability of that service, nor does it guarantee any amount of uptime. 
