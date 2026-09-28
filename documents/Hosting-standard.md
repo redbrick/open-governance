@@ -6,14 +6,14 @@ When you host a project on Redbrick, a designated Point of Contact (PoC) must be
 ## Submission Requirements
 
 Before we start hosting your project you need to:
-1. Setup a mirror of your code to redbrick git.
-2. Upload a docker image to our container registry.
+1. Set up a mirror of your code to Redbrick Git.
+2. Upload a Docker image to our container registry.
 3. Keep track of dependencies and security vulnerabilities (e.g. Use Dependabot on GitHub).
-4. Provide us with an up to date and well documented list of any requirements (resource utilisation, open ports etc.)
+4. Provide an up to date and well documented list of any requirements (resource utilisation, open ports etc.)
 
-This information **needs** to stay up-to-date. If there are any changes, the PoC must notify Redbrick immediately. At a minimum, the contact details must include an email address of the individual or group responsible for maintaining the project.
+This information **must** stay up-to-date. If there are any changes, the PoC must notify Redbrick immediately. At a minimum, the contact details must include an email address of the individual or group responsible for maintaining the project.
 
-While you do not need to primarily manage your project using our git hosting services, we require that you **mirror** your repository to redbrick git and upload your docker image to our container registry. We **cannot** accept GitHub credentials under any circumstances.
+While you do not need to primarily manage your project using our Git hosting services, we require that you **mirror** your repository to Redbrick Git and upload your Docker image to our container registry. We **cannot** accept GitHub credentials under any circumstances.
 ## Disclaimer
 
 While we will do our best to host your project, we **do not** claim any responsibility for the security or stability of your project, nor do we guarantee any amount of uptime. 
