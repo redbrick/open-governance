@@ -21,27 +21,6 @@ opengraph:
 
 ---
 
-|    Username    |    Year    |   Position          |
-|----------------|------------|---------------------|
-|    `Chair`   |    4th     |   Chair             |
-|    `Vice-Chair`     |    4th     |   Vice-Chair        |
-|    `Sysadmin`     |    4th     |   Sysadmin          |
-|    `Events`     |    4th     |   Events            |
-|    `secretary`    |    3rd     |   Secretary         |
-|    `Sysadmin`  |    3rd     |   Sysadmin          |
-|    `Treasurer`      |    3rd     |   Treasurer         |
-|    `HelpDesk`    |    3rd     |   HelpDesk          |
-|    `GDO`  |    2nd     |   GDO               |
-|    `Events`      |    2nd     |   Events            |
-|    `PRO`    |    2nd     |   PRO               |
-|    `Webmaster`     |    old     |   Webmaster         |
-|    `Sysadmin`    |    2nd     |   Sysadmin          |
-|    `HelpDesk`     |    2nd     |   HelpDesk          |
-|    `Ordinary Member`     |    2nd     |   Ordinary Member   |
-|    `Ordinary Member`       |    2nd     |   Ordinary Member   |
-
----
-
 
 # Agenda:
 > Please add your Redbrick `username` beside agenda items.
