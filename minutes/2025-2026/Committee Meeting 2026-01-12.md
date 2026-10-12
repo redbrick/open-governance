@@ -44,7 +44,7 @@ opengraph:
     - Will be getting emails out to arrange events for after first two weeks.
         - I saw the emails I was CC'ed into, we will be responding to them as well.
         - ServiceNow maybe do a hackathon/quiz thing
-        - SIG do one as well? (dom..?) (Think I saw an email about this)
+        - SIG do one as well? (`chair`..?) (Think I saw an email about this)
     - Likely just do a little game night or something we can orgainse ourselves without relying on company for the first two events.
     - No event this week
     - Next week TBD
