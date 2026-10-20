@@ -104,7 +104,7 @@ opengraph:
 
 ## Points of Discussion:
 - NASA Space Challenge hackathon in Athlone this weekend. Team Redbrick? - `HelpDesk`
-- Interpints - `Sysadmin (gavin)`
+- Interpints - `Sysadmin`
 
 # AOB:
 

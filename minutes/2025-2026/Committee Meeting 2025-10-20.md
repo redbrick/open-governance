@@ -84,7 +84,7 @@ opengraph:
 ## First Year Rep:
 - unlimited games - `1st Year Rep`
    - unlimited bacon - `1st Year Rep`
-- games won... - `pease`
+- games won... - `1st Year Rep`
 
 ## Ordinary Members:
 - hey guys happy monday
