@@ -1,3 +1,14 @@
+---
+id: Hosting-Standards
+aliases:
+  - "Disclaimer and Hosting Standards for Redbrick Infrastructure"
+  - "Hosting Standards"
+tags: []
+created: 2026-10-05T00:00:00
+modified: 2026-10-25T14:19:36
+title: Hosting Standards
+---
+
 # Disclaimer and Hosting Standards for Redbrick Infrastructure
 
 ## Hosting Agreement Overview
