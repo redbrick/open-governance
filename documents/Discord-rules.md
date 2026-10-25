@@ -3,6 +3,9 @@ id: Discord_rules
 aliases:
   - Rules <:bigRed:634311607039819776>
 tags: []
+title: Discord Rules
+created: 2025-03-26T11:10:00
+modified: 2026-10-25T14:19:36
 ---
 
 # Rules <:bigRed:634311607039819776>
