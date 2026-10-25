@@ -1,14 +1,14 @@
 ---
 id: Discord_rules
 aliases:
-  - Rules <:bigRed:634311607039819776>
+  - Rules
 tags: []
 title: Discord Rules
 created: 2025-03-26T11:10:00
 modified: 2026-10-25T14:19:36
 ---
 
-# Rules <:bigRed:634311607039819776>
+# Rules
 
 - Be respectful to other members.
 - Sending/Linking any harmful material such as viruses, IP grabbers or any harmful software results in an immediate and permanent ban.
