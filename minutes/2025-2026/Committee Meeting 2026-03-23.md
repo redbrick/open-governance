@@ -125,7 +125,7 @@ opengraph:
     - On another note, having people wear generations of redbrick hoodies would make for a cool photo - `Treasurer`
 - Who's going to awards tmrw 😛 - `Secretary`
     - I've a ticket, might be there - `Treasurer`
-    - ME ME ME - `how`
+    - ME ME ME - `Ordinary Member`
 
 # AOB:
 

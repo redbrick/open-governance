@@ -14,7 +14,7 @@ opengraph:
 # Committee Meeting 2026-03-31
 
 - **Start**: 2026-03-31 18:00
-- **Present**: `Sysadmin`, `Chair`, `Vice-Chair`, `Sysadmin`, `Chair`, `Vice-Chair`, `Sysadmin`, `GDO`, `PRO`, `Events`, `Ordinary Member`, `Ordinary Member`, `Ordinary Member`, `S_Rogue`, `Helpdesk`, `Sysadmin`, `Secretary`, `Events`
+- **Present**: `Sysadmin`, `Chair`, `Vice-Chair`, `Sysadmin`, `Chair`, `Vice-Chair`, `Sysadmin`, `GDO`, `PRO`, `Events`, `Ordinary Member`, `Ordinary Member`, `Ordinary Member`, `Helpdesk`, `Helpdesk`, `Sysadmin`, `Secretary`, `Events`
 - **Absent**: , `Ordinary Member`, `HelpDesk`, `PRO`
 - **Excused**: `Treasurer`
 - **Late**:

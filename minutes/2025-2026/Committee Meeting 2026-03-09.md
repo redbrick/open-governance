@@ -237,7 +237,7 @@ Ended meetings discussions at: `18:50`
 ## Points of Discussion:
 - RB30
     - Stuff may be expensive, cake probs €150, `Ordinary Member` suggests getting 2 sheet cakes n stacking them
-    - `eva` would bring in cake if she gets reimbursed, otherwise let her order from Temu...
+    - `Ordinary Member` would bring in cake if she gets reimbursed, otherwise let her order from Temu...
     - `Chair` says no red velvet!
     - Tickets to be announced soon, will be posted everywhere
     - `Ordinary Member` will make infographic, big red rectangle

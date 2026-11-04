@@ -177,7 +177,7 @@ Ended meetings discussions at: `18:42`
     - `Events` should be able to order - `HelpDesk`
 
 ### Webmaster Update:
-- added half hr option for agenda and poll - `cg_5288`
+- added half hr option for agenda and poll - `Webmaster`
     - review needed
 
 ### Secretary Update:

@@ -62,7 +62,7 @@ opengraph:
     - paying for food
     - adding us in the monthly newsletter
     - sending out targeted emails to computing/engineering alumni
-- still waiting to hear back from `valen` for techweek talk
+- still waiting to hear back from `alumni` for techweek talk
 
 ## Vice-Chair:
 - STEM week shenanigans - `Vice-Chair`
@@ -204,7 +204,7 @@ Ended meetings discussions at: `18:`
 
 ### Secretary Update:
 - Photo Dump, End Of year CSBall + Fosdem
-- Monica Responses
+- SoC Lecturer Responses
 - Anniversary Email + Tickets
 
 ### PRO Update:
