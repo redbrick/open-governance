@@ -123,7 +123,7 @@ opengraph:
 
 ## Common Room Committee:
 - let us quickly elect a new one - `Vice-Chair`
-    - `hypnopant` has joined croomt cmt as part of engsoc as their ordinary member
+    - `Sysadmin` has joined croomt cmt as part of engsoc as their ordinary member
 
 ## Points of Discussion:
 -

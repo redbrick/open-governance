@@ -177,7 +177,7 @@ Ended meetings discussions at: `18:45`
 - nothing to update
 
 ### SysAdmin Update:
-Admin API is mostly back, Aris got registered
+Admin API is mostly back, `Webmaster` got registered
 
 ### Events Update:
 Role(s) to be made for weekly listening party - committe approves of idea, again need push on 30th, `events` for this and next week (SIG) done - start promoting now, Mafia went well
